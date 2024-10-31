@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\.NETCore7.0_PlumbingProject\\NETCore7.0_PlumbingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BADA45-D084-4176-AA80-56CAAFA30F0E}|RepositoryLayer\\RepositoryLayer.csproj|d:\\github\\.netcore7.0_plumbingproject\\netcore7.0_plumbingproject\\repositorylayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BADA45-D084-4176-AA80-56CAAFA30F0E}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\.NETCore7.0_PlumbingProject\\NETCore7.0_PlumbingProject\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Github\\.NETCore7.0_PlumbingProject\\NETCore7.0_PlumbingProject\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:09:47.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
